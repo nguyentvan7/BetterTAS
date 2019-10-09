@@ -1,0 +1,2 @@
+#Ignore local file that contains user cookies.
+*.cookie
